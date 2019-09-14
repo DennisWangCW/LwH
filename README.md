@@ -1,5 +1,5 @@
 # LwH
-This repository includes codes for the algorithm Deep Reinforcement Learning with Non-Expert Helper (LwH) proposed in the paper titled "Deep Reinforcement Learning-based Autonomous UAV Navigation with Sparse Rewards"
+This repository includes codes for the algorithm Deep Reinforcement Learning with Non-Expert Helper (LwH) proposed in the paper titled "Deep Reinforcement Learning-based Autonomous UAV Navigation with Sparse Rewards". The codes are based on []
 
 Before running the code, you need to install the environment 'uav-v0' (which can be found at) or other gym environments with continuous action psaces and low-dimensional observation space (e.g., mujoco envs).
 
